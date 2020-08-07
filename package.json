@@ -1,0 +1,28 @@
+{
+  "name": "cypress_cucumber_api_test",
+  "version": "1.0.0",
+  "description": "Cypress with Cucumber to test API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reharada/cypress_cucumber_api_test.git"
+  },
+  "keywords": [
+    "cucumber",
+    "cypress",
+    "API"
+  ],
+  "author": "Regiane Harada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reharada/cypress_cucumber_api_test/issues"
+  },
+  "homepage": "https://github.com/reharada/cypress_cucumber_api_test#readme",
+  "devDependencies": {
+    "cypress": "^4.12.1",
+    "cypress-cucumber-preprocessor": "^2.5.4"
+  }
+}
